@@ -8,7 +8,7 @@ Friday, March 25, to Sunday, March 27, was Purdue's competition for the 2022 Dat
 - [Zack Lee](https://github.com/zlee1)
 - Eric Burkholder
 - [Ethan Hawk](https://github.com/ehawkvu)
-- Anton Eschenauer
+- [Anton Eschenauer](https://www.linkedin.com/in/anton-eschenauer-3841b61a7/)
 
 ## The Challenge
 
